@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #535353;
+	margin:0px;
+	width: 100%px;
+	background: #8E0E00;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.banner{
+/*	border: 1px solid #000;*/
+	width: 1220px;
+	height: 200px;
+	margin: auto;
+	margin-bottom: 10px;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.otomasyon_ana_div{
+/*	border: 1px solid #000;*/
+	width: 1220px;
+	height: auto;
+	margin: auto;
+}
+.menuler_govde{
+/*	border: 1px solid #000;*/
+	width: 500px;
+	height: 300px;
+	float: left;
+	background: #403B4A;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	padding: 10px;
+	
+}
+.menuler{
+	border-radius: 5px;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: auto;
+	color: #535353;
+	padding: 10px;
+	text-align: center;
+	margin: 10px;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.menuler:hover{
+	background-color: white;
+	transform: scale(1.1) translate3d(0,0,0);
+}
+
+.cikis{
+	border-radius: 50px;
+	width: auto;
+	height: auto;
+	float: right;
+	color: #fff;
+	padding: 5px;
+	margin-top: 10px;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.cikis:hover{
+	color: firebrick;
+	background-color: #fff;
+	transform: scale(1.1) translate3d(0,0,0);
+}
+.body{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height:auto;
+	margin: auto;
+	float: right;
+	background: #403B4A;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+
+
+

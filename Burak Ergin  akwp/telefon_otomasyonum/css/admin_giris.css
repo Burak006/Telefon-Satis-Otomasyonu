@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #00c6ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color:#000;
+}
+
+
+.giris_yap_ana_div{
+/*	border: 1px solid #000;*/
+	border-radius: 5px;
+	width: 430px;
+	height: 300px;
+	background: #00c6ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 20px 43px 27px ;
+}
+.admine_giris_yapin{
+/*	border: 1px solid #000;*/
+	width: 221px;
+	height: 24px;
+	margin: auto;
+	margin-bottom: 40px;
+	cursor: pointer;
+}
+.admin_giris_logo{
+	border-radius: 50px;
+	width: 50px;
+	height: 50px;
+	margin-bottom: 10px;
+	margin: auto;
+	text-align: center;
+	cursor: pointer;
+}
+.giris_yapin{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	font-size: 20px;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.hata_mesaji{
+/*	border: 1px solid #000;*/
+	width: 340px;
+	height: auto;
+	font-size: 20px;
+	font-style: normal;
+	margin: auto;
+	text-align: center;
+	color: #FF0004;
+	margin-bottom: 10px;
+}
+.kullanici{
+    border: 1px solid hsla(0,0%,60.4%,.5);
+	border-radius: 2px;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+	margin-bottom: 20px;
+}
+.kullanici_text{
+/*	border: 1px solid #000;*/
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-size: 16px;
+	text-align: left;
+}
+.sifre{
+    border: 1px solid hsla(0,0%,60.4%,.5);
+	border-radius: 2px;
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    font-size: 16px;
+    background: #fff;
+    color: #000;
+	cursor: pointer;
+}
+.sifre_text{
+/*	border: 1px solid #000;*/
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: left;
+}
+.giris_yap_buton{
+/*   border: 1px solid #f60;*/
+	width: 344px;
+	height: 45px;
+	margin: auto;
+	font-family: Roboto,sans-serif;
+    color: #FFFFFF;
+	margin-top: 20px;
+	cursor: pointer;
+	text-align: center;
+    background: #00c6ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+input{
+/*	border: 1px solid #000;*/
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin: auto;
+	font-weight: 100;
+	font-size: 20px;
+	margin-top: 7px;
+	cursor: pointer;
+	background-color: #FFFFFF;
+	color: #535353;
+}
+
+
+
+

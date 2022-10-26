@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+.kul_govde{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	
+}
+.k_bilgileri{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	margin: auto;
+	color: #000;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.k_adi{
+/*	border: 1px solid #000;*/
+	width: 120px;
+	height: auto;
+	margin: auto;
+	color: #000;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 150px;
+	margin-right: 20px;
+}
+.combobox{
+/*	border: 1px solid #000;*/
+	width: 60px;
+	height: auto;
+	margin: auto;
+	float: left;
+	color: red;
+}
+.combobox:hover{
+	color: red;
+	background-color: #fff;
+}
+.k_sifre{
+/*	border: 1px solid #000;*/
+	width: 120px;
+	height: auto;
+	margin: auto;
+	color: #000;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 150px;
+	margin-right: 20px;
+}
+.k_durum{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	margin: auto;
+	color: #000;
+	text-align: center;
+	margin-bottom: 20px;
+	float: left;
+	margin-left: 150px;
+	margin-right: 20px;
+}
+/*.kaydet{
+	border: 1px solid #000;
+	border-radius: 10px;
+	width: auto;
+	height: auto;
+	margin: auto;
+	color: #000;
+	text-align: center;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 300px;
+	margin-right: 20px;
+}
+.kaydet:hover{
+	color:orange;
+	background-color: #fff;
+}*/
+.kaydet{
+/*	border: 1px solid #000;*/
+	border-radius: 10px;
+	width: 80px;
+	height: 25px;
+	margin: auto;
+	cursor: pointer;
+	color:orange;
+	float: left;
+	margin-left: 300px;
+	margin-right: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: transparent;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.kaydet:hover{
+	color:#FFFFFF;
+	background-color:#CD2122;
+	transform: scale(1.1) translate3d(0,0,0);
+}
+.tablo_baslik{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: 40px;
+	margin: auto;
+	
+}
+.kul_kodu{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 15px;
+	margin-right: 10px;
+	color: #3399FF;
+	padding: 5px;
+}
+.kul_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 50px;
+	margin-right: 30px;
+	color: #3399FF;
+	padding: 5px;
+}
+.k_durum2{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 55px;
+	color: #3399FF;
+	padding: 5px;
+}
+.islemler{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 80px;
+	color: #3399FF;
+	padding: 5px;
+}
+.liste_kategori{
+	border-radius: 5px;
+	color:red;
+}
+

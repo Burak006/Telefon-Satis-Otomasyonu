@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+
+.u_bilgileri_govde{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;;
+	margin: auto;
+	
+}
+.u_alt_govde{
+/*	border: 1px solid #000;*/
+	width: 400px;
+	height: auto;;
+	margin: auto;
+	
+}
+.u_bilgileri{
+/*	border: 1px solid #000;*/
+	width: 100px;
+	height: auto;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.u_kategori{
+/*	border: 1px solid #000;*/
+	width: 100px;
+	height: auto;
+	margin: auto;
+	float: left;
+	margin-bottom: 10px;
+}
+.liste_kategori{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	margin: auto;
+	float: left;
+	color:red;
+}
+.liste_kategori:hover{
+	color: red;
+	background-color: #fff;
+}
+.u_adi{
+/*	border: 1px solid #000;*/
+	width: 100px;
+	height: auto;
+	margin: auto;
+	float: left;
+	margin-bottom: 10px;
+}
+.u_fiyat{
+/*	border: 1px solid #000;*/
+	width: 100px;
+	height: auto;
+	margin: auto;
+	float: left;
+	margin-bottom: 10px;
+}
+/*.guncelle{
+	border: 1px solid #000;
+	border-radius: 10px;
+	width: auto;
+	height: auto;
+	margin: auto;
+	margin-left: 100px;
+	margin-bottom: 20px;
+}
+.guncelle:hover{
+	color: orange;
+	background-color: #fff;
+}*/
+.guncelle{
+/*	border: 1px solid #000;*/
+	border-radius: 10px;
+	width: 80px;
+	height: 25px;
+	margin: auto;
+	cursor: pointer;
+	color:orange;
+	margin-left: 100px;
+	margin-bottom: 20px;
+	background-color: transparent;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.guncelle:hover{
+	color:#FFFFFF;
+	background-color:#CD2122;
+	transform: scale(1.1) translate3d(0,0,0);
+}
+.basliklar{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	background-color: #ccc;
+}
+.urun_kodu{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 3px;
+	color: #3399FF;	
+
+}
+.kat_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	padding: 3px;
+	color: #3399FF;	
+	margin-left: 20px;
+}
+.urun_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin-left: 45px;
+	padding: 3px;
+	color: #3399FF;	
+}
+.urun_fiyat{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	padding: 3px;
+	margin-left: 50px;
+	color: #3399FF;	
+
+}
+.islemler{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	text-align: center;
+	float: right;
+	padding: 3px;
+	margin-right: 50px;
+	color: #3399FF;
+}
+.metin{
+	border-radius: 5px;
+	color: red;
+}
+
+
+
+
+
+
+
+
+

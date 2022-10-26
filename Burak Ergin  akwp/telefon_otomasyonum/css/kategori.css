@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;
+}
+
+.k_bilgileri_govde{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	
+}
+.k_bilgileri{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.k_adi{
+/*	border: 1px solid #000;*/
+	width: 100px;
+	height: auto;
+	margin: auto;
+	float: left;
+	margin-left: 150px;
+	margin-bottom: 10px;
+}
+/*.kaydet{
+	border: 1px solid #000;
+	border-radius: 10px;
+	width: auto;
+	height: auto;
+	margin: auto;
+	float: left;
+	margin-left: 300px;
+	margin-bottom: 10px;
+}
+.kaydet:hover{
+	color: orange;
+	background-color: #fff;
+}*/
+.kaydet{
+/*	border: 1px solid #000;*/
+	border-radius: 10px;
+	width: 80px;
+	height: 25px;
+	margin: auto;
+	cursor: pointer;
+	color:orange;
+	margin-left: 300px;
+	margin-bottom: 10px;
+	background-color: transparent;
+	box-shadow: 0px 5px 10px -7px rgb(0 0 0 / 75%);
+}
+.kaydet:hover{
+	color:#FFFFFF;
+	background-color:#CD2122;
+	transform: scale(1.1) translate3d(0,0,0);
+}
+.basliklar{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	
+}
+.urun_kodu{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 10px;
+	padding: 3px;
+	color: #3399FF;	
+
+}
+.kat_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	padding: 3px;
+	color: #3399FF;	
+	margin-left: 80px;
+}
+.islemler{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	text-align: center;
+	float: right;
+	padding: 3px;
+	margin-right: 100px;
+	color: #3399FF;
+}
+.liste_kategori{
+	border-radius: 5px;
+	color: red;
+}
+
+

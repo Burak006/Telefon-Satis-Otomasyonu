@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #535353;
+	margin:0px;
+	width: 100%px;
+}
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color: #535353;}
+.govde{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	background: #403B4A;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ana_baslik{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	margin: auto;
+	text-align: center;
+}
+.basliklar{
+/*	border: 1px solid #000;*/
+	width: 650px;
+	height: auto;
+	margin: auto;
+	background-color: #ccc;
+}
+.urun_kodu{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 3px;
+	color: #3399FF;	
+
+}
+.kat_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	padding: 3px;
+	color: #3399FF;	
+	margin-left: 20px;
+}
+.urun_adi{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin-left: 45px;
+	padding: 3px;
+	color: #3399FF;	
+}
+.urun_fiyat{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	padding: 3px;
+	margin-left: 50px;
+	color: #3399FF;	
+
+}
+.islemler{
+/*	border: 1px solid #000;*/
+	width: auto;
+	height: auto;
+	text-align: center;
+	float: right;
+	padding: 3px;
+	margin-right: 50px;
+	color: #3399FF;
+}
+
+
+
+
+
+
+
+
+
+
+
