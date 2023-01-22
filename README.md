@@ -1,5 +1,5 @@
 <h1> Telefon Satış Otomasyonu <h1>
-<p><h4>Senaryo: Bu Projemde bir telefon firmasının satış esnasında stokta ne kadar ürün kaldığını ve ürünleri kime sattığını ve sisteme kullanıcı yetkisi olmayanların giremeyeceği bir proje geliştirdim.<h4><p>
+<h4>Senaryo: Bu Projemde bir telefon firmasının satış esnasında stokta ne kadar ürün kaldığını ve ürünleri kime sattığını ve sisteme kullanıcı yetkisi olmayanların giremeyeceği bir proje geliştirdim.<h4>
 <h1>  Kullanılan Teknolojiler<h1>
 <h4> HTML - CSS - PHP <h4>
 <h1>Sayfalar<h1>
