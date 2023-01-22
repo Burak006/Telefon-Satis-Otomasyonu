@@ -3,4 +3,4 @@
 <h1>  Kullanılan Teknolojiler<h1>
 <h4> HTML - CSS - PHP - MYSQL <h4>
 <h1>Sayfalar<h1>
-![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/116731704/213912960-391b97dc-fafb-4f9f-b78f-569d2cddcc56.gif)
+<img src="https://user-images.githubusercontent.com/116731704/213912960-391b97dc-fafb-4f9f-b78f-569d2cddcc56.gif" class="img-fluid">
